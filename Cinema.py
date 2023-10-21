@@ -1,8 +1,3 @@
-# Trabalho do GB - Fundamentos de Programação
-# Alunos do projeto:
-# João Pedro Carvalho
-# Lucas Trovo
-
 import string
 import csv
 
